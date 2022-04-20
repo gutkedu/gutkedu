@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutkedu&show_icons=true&icon_color=blue&hide_border=true&hide_rank=true&bg_color=FFF"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutkedu&layout=compact&hide_border=true&langs_count=8&hide=Stata,html&bg_color=FFF"/>
   <br><br>
-![](https://komarev.com/ghpvc/?username=gutkedu&style=for-the-badge
 </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -41,3 +40,4 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/eduardopgutkoski/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=gutkedu&style=for-the-badge)

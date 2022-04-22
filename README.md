@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutkedu&show_icons=true&icon_color=blue&hide_border=true&hide_rank=true&bg_color=FFF"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutkedu&layout=compact&hide_border=true&langs_count=8&hide=Stata,html&bg_color=FFF"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutkedu&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutkedu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   <br><br>
 </p>
   <br/>

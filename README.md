@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Eduardo Gutkoski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi , I'm Eduardo Gutkoski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align = "center"> I'm passionate about Web Development, Embedded Systems, Web 3.0 and open source. </h3>
+<h3> I'm passionate about Web Development, Embedded Systems, Web 3.0 and open source. </h3>
 
 <!--
 **gutkedu/gutkedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 </details>
 
 ## :raising_hand_man: Let's Connect
-<p align="center">
+<p>
 	<a href="https://github.com/gutkedu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/eduardo-ped%C3%B3-gutkoski-5a2950187/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/eduardopgutkoski/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=gutkedu&style=for-the-badge)

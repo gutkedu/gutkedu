@@ -1,6 +1,6 @@
-<h1>Hi , I'm Eduardo Gutkoski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2>Hi , I'm Eduardo Gutkoski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<h3> I'm passionate about Web Development, Embedded Systems, Web 3.0 and open source. </h3>
+<h4> I'm passionate about Web Development, Embedded Systems, Web 3.0 and open source. </h4>
 
 <!--
 **gutkedu/gutkedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

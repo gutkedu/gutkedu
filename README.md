@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats 
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutkedu&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3"/>
@@ -31,7 +29,6 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 ## :raising_hand_man: Let's Connect
 <p>
